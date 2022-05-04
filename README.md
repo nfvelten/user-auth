@@ -30,7 +30,7 @@ $ docker-compose up dev
 ```bash
 $ cd api
 ```
-# E migrar o banco de dado
+# E migrar o banco de dados
 ```bash
 $ npx prisma migrate dev --name init
 ```
